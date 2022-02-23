@@ -17,14 +17,11 @@
 
 
 - 🔭 I’m currently working on (In Flutter & Swift)
-- QR Strength
-- Bar Gym App
-- CopyBin
-- Blockify
-- Husband and Wife ToDo
-- Brain Health
+- The Gym Company
+- Loop Messenger
+- Flutter/2D Games
 
-- 🌱 I’m currently learning Flutter, Swift, SwiftUI, CoreData, Realm, SQLite, API Integration, Networking, IAP, AR, Machine Learning
+- 🌱 I’m currently learning Flutter, Dart, Provider,  Swift, SwiftUI, CoreData, Realm, SQLite, API Integration, Networking, IAP, AR, Machine Learning
 
 
 - 👯 I’m looking to collaborate on  
